@@ -8,6 +8,7 @@
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+
 Photo by <a href="https://unsplash.com/@executium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Executium</a> on <a href="https://unsplash.com/s/photos/crypto-currency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
